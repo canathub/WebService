@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class Servlet4_1
  */
-@WebServlet("/kadai.baba/Webser1")
+@WebServlet("/WebService/src/kadai/baba/Webser1")
 public class Webser1 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
