@@ -46,7 +46,7 @@ ${station}駅周辺のWi-Fiがあるカフェは・・・<br><br>
     </script>
 
     <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBL8IWGsEnqiVb4kHLajITPQoUQBXEuE6g&callback=initMap">
+      src="https://maps.googleapis.com/maps/api/js?key=!!!!">
     </script>
     -->
 
