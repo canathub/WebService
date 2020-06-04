@@ -1,4 +1,4 @@
-package kadai.baba;
+package WebService.src.kadai.baba;
 
 import java.io.Serializable;
 import java.util.ArrayList;
