@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form method="get" action="/WebService/web/kadai/baba/Webser1">
+<form method="get" action="/WebService/WebContent/kadai/baba/Webser1">
 
 
 	<h3>港区住みリモートワーカー必見！！</h3>
