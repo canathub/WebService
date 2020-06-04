@@ -1,5 +1,5 @@
 
-package kadai.baba;
+package WebService.src.kadai.baba;
 
 import java.io.IOException;
 
@@ -43,7 +43,7 @@ public class Webser2 extends HttpServlet {
 			request.setAttribute("station",radio);
 
 
-		RequestDispatcher disp = request.getRequestDispatcher("/kadai/baba/webser3.jsp");
+		RequestDispatcher disp = request.getRequestDispatcher("/WebService/src/kadai/baba/webser3.jsp");
 		disp.forward(request, response);
 
 	}
