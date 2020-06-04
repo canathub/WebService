@@ -1,4 +1,4 @@
-package kadai.baba;
+package WebService.src.kadai.baba;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -169,7 +169,7 @@ else if (radio.equals("東海道新幹線")) {
 
 
 
-		RequestDispatcher disp = request.getRequestDispatcher("/kadai/baba/webser2.jsp");
+		RequestDispatcher disp = request.getRequestDispatcher("/WebService/src/kadai/baba/webser2.jsp");
 		disp.forward(request, response);
 
 		//String param;
