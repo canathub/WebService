@@ -169,7 +169,7 @@ else if (radio.equals("東海道新幹線")) {
 
 
 
-		RequestDispatcher disp = request.getRequestDispatcher("/src/kadai/baba/webser2.jsp");
+		RequestDispatcher disp = request.getRequestDispatcher("/WebContent/kadai/baba/webser2.jsp");
 		disp.forward(request, response);
 
 		//String param;
