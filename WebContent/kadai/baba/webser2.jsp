@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<form method="get" action="/WebService/WebContent/web/kadai.baba/Webser2">
+<form method="get" action="/WebContent/kadaibaba/Webser2">
 駅を選んでください<br><br>
 
 ${metoro}<br>
