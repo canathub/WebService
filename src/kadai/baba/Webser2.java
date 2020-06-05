@@ -1,5 +1,5 @@
 
-package WebService.src.kadai.baba;
+package src.kadai.baba;
 
 import java.io.IOException;
 
@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("/WebService/src/kadai/baba/Webser2")
+@WebServlet("/src/kadai/baba/Webser2")
 public class Webser2 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
@@ -43,7 +43,7 @@ public class Webser2 extends HttpServlet {
 			request.setAttribute("station",radio);
 
 
-		RequestDispatcher disp = request.getRequestDispatcher("/WebService/src/kadai/baba/webser3.jsp");
+		RequestDispatcher disp = request.getRequestDispatcher("/src/kadai/baba/webser3.jsp");
 		disp.forward(request, response);
 
 	}
